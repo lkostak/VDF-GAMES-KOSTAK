@@ -1,5 +1,5 @@
 // Přepínač: zatím bez backendu
-const USE_BACKEND = true;
+const USE_BACKEND = false;
 
 // TADY si každý student nastaví svoje údaje (až bude backend):
 const BACKEND_URL = "https://vdf-games-kostak.onrender.com/chat";
