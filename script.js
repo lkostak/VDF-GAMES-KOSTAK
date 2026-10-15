@@ -3,7 +3,7 @@ const USE_BACKEND = true;
 
 // TADY si každý student nastaví svoje údaje (až bude backend):
 const BACKEND_URL = "http://127.0.0.1:8000/chat";
-const STUDENT_ID = "Kostak_Ladislav_4IT";
+const STUDENT_ID = "Kostak_Ladislav_4ITE";
 
 const form = document.getElementById("question-form");
 const textarea = document.getElementById("question");
